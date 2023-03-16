@@ -1,0 +1,5 @@
+C:\Users\Gamer\Desktop\WPF gyaK\WpfNaplo\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\WPF gyaK\WpfNaplo\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Gamer\Desktop\WPF gyaK\WpfNaplo\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Gamer\Desktop\WPF gyaK\WpfNaplo\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas_MarkupCompile.cache
+C:\Users\Gamer\Desktop\WPF gyaK\WpfNaplo\WpfNaplo-master\WpfOsztalyzas\obj\Debug\net6.0-windows\WpfOsztalyzas_MarkupCompile.lref
